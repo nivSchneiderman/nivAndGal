@@ -1,0 +1,10 @@
+C:\Users\niv\Desktop\niv\studies\שנה ב\סמסטר ב\תכנות מונחה עצמי בc#\תרגילים\WorkSpace\Solution1\B18_Ex01_3\bin\Debug\B18_Ex01_3.exe.config
+C:\Users\niv\Desktop\niv\studies\שנה ב\סמסטר ב\תכנות מונחה עצמי בc#\תרגילים\WorkSpace\Solution1\B18_Ex01_3\bin\Debug\B18_Ex01_3.exe
+C:\Users\niv\Desktop\niv\studies\שנה ב\סמסטר ב\תכנות מונחה עצמי בc#\תרגילים\WorkSpace\Solution1\B18_Ex01_3\bin\Debug\B18_Ex01_3.pdb
+C:\Users\niv\Desktop\niv\studies\שנה ב\סמסטר ב\תכנות מונחה עצמי בc#\תרגילים\WorkSpace\Solution1\B18_Ex01_3\bin\Debug\ConsoleApp1.exe
+C:\Users\niv\Desktop\niv\studies\שנה ב\סמסטר ב\תכנות מונחה עצמי בc#\תרגילים\WorkSpace\Solution1\B18_Ex01_3\bin\Debug\ConsoleApp1.pdb
+C:\Users\niv\Desktop\niv\studies\שנה ב\סמסטר ב\תכנות מונחה עצמי בc#\תרגילים\WorkSpace\Solution1\B18_Ex01_3\bin\Debug\ConsoleApp1.exe.config
+C:\Users\niv\Desktop\niv\studies\שנה ב\סמסטר ב\תכנות מונחה עצמי בc#\תרגילים\WorkSpace\Solution1\B18_Ex01_3\obj\Debug\B18_Ex01_3.csprojResolveAssemblyReference.cache
+C:\Users\niv\Desktop\niv\studies\שנה ב\סמסטר ב\תכנות מונחה עצמי בc#\תרגילים\WorkSpace\Solution1\B18_Ex01_3\obj\Debug\B18_Ex01_3.csproj.CoreCompileInputs.cache
+C:\Users\niv\Desktop\niv\studies\שנה ב\סמסטר ב\תכנות מונחה עצמי בc#\תרגילים\WorkSpace\Solution1\B18_Ex01_3\obj\Debug\B18_Ex01_3.exe
+C:\Users\niv\Desktop\niv\studies\שנה ב\סמסטר ב\תכנות מונחה עצמי בc#\תרגילים\WorkSpace\Solution1\B18_Ex01_3\obj\Debug\B18_Ex01_3.pdb

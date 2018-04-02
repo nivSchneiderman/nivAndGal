@@ -1,0 +1,7 @@
+C:\Users\niv\Desktop\niv\studies\שנה ב\סמסטר ב\תכנות מונחה עצמי בc#\תרגילים\WorkSpace\Solution1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\niv\Desktop\niv\studies\שנה ב\סמסטר ב\תכנות מונחה עצמי בc#\תרגילים\WorkSpace\Solution1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\niv\Desktop\niv\studies\שנה ב\סמסטר ב\תכנות מונחה עצמי בc#\תרגילים\WorkSpace\Solution1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\niv\Desktop\niv\studies\שנה ב\סמסטר ב\תכנות מונחה עצמי בc#\תרגילים\WorkSpace\Solution1\ConsoleApp1\obj\Debug\B18_Ex01_2.csprojResolveAssemblyReference.cache
+C:\Users\niv\Desktop\niv\studies\שנה ב\סמסטר ב\תכנות מונחה עצמי בc#\תרגילים\WorkSpace\Solution1\ConsoleApp1\obj\Debug\B18_Ex01_2.csproj.CoreCompileInputs.cache
+C:\Users\niv\Desktop\niv\studies\שנה ב\סמסטר ב\תכנות מונחה עצמי בc#\תרגילים\WorkSpace\Solution1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\niv\Desktop\niv\studies\שנה ב\סמסטר ב\תכנות מונחה עצמי בc#\תרגילים\WorkSpace\Solution1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
