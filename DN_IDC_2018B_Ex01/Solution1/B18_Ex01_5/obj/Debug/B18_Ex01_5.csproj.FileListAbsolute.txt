@@ -5,3 +5,10 @@ C:\Users\niv\Desktop\niv\studies\שנה ב\סמסטר ב\תכנות מונחה �
 C:\Users\niv\Desktop\niv\studies\שנה ב\סמסטר ב\תכנות מונחה עצמי בc#\תרגילים\WorkSpace\Solution1\B18_Ex01_5\obj\Debug\B18_Ex01_5.exe
 C:\Users\niv\Desktop\niv\studies\שנה ב\סמסטר ב\תכנות מונחה עצמי בc#\תרגילים\WorkSpace\Solution1\B18_Ex01_5\obj\Debug\B18_Ex01_5.pdb
 C:\Users\niv\Desktop\niv\studies\שנה ב\סמסטר ב\תכנות מונחה עצמי בc#\תרגילים\WorkSpace\Solution1\B18_Ex01_5\obj\Debug\B18_Ex01_5.csprojResolveAssemblyReference.cache
+C:\Users\galsalti\Desktop\Study\C#\nivAndGal\DN_IDC_2018B_Ex01\Solution1\B18_Ex01_5\bin\Debug\B18_Ex01_5.exe.config
+C:\Users\galsalti\Desktop\Study\C#\nivAndGal\DN_IDC_2018B_Ex01\Solution1\B18_Ex01_5\bin\Debug\B18_Ex01_5.exe
+C:\Users\galsalti\Desktop\Study\C#\nivAndGal\DN_IDC_2018B_Ex01\Solution1\B18_Ex01_5\bin\Debug\B18_Ex01_5.pdb
+C:\Users\galsalti\Desktop\Study\C#\nivAndGal\DN_IDC_2018B_Ex01\Solution1\B18_Ex01_5\obj\Debug\B18_Ex01_5.csprojResolveAssemblyReference.cache
+C:\Users\galsalti\Desktop\Study\C#\nivAndGal\DN_IDC_2018B_Ex01\Solution1\B18_Ex01_5\obj\Debug\B18_Ex01_5.csproj.CoreCompileInputs.cache
+C:\Users\galsalti\Desktop\Study\C#\nivAndGal\DN_IDC_2018B_Ex01\Solution1\B18_Ex01_5\obj\Debug\B18_Ex01_5.exe
+C:\Users\galsalti\Desktop\Study\C#\nivAndGal\DN_IDC_2018B_Ex01\Solution1\B18_Ex01_5\obj\Debug\B18_Ex01_5.pdb

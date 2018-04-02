@@ -1,0 +1,7 @@
+C:\Users\galsalti\Desktop\Study\C#\WorkingDirectory\Solution1\B18_Ex1_1\bin\Debug\B18_Ex1_1.exe.config
+C:\Users\galsalti\Desktop\Study\C#\WorkingDirectory\Solution1\B18_Ex1_1\bin\Debug\B18_Ex1_1.exe
+C:\Users\galsalti\Desktop\Study\C#\WorkingDirectory\Solution1\B18_Ex1_1\bin\Debug\B18_Ex1_1.pdb
+C:\Users\galsalti\Desktop\Study\C#\WorkingDirectory\Solution1\B18_Ex1_1\obj\Debug\B18_Ex1_1.csprojResolveAssemblyReference.cache
+C:\Users\galsalti\Desktop\Study\C#\WorkingDirectory\Solution1\B18_Ex1_1\obj\Debug\B18_Ex1_1.csproj.CoreCompileInputs.cache
+C:\Users\galsalti\Desktop\Study\C#\WorkingDirectory\Solution1\B18_Ex1_1\obj\Debug\B18_Ex1_1.exe
+C:\Users\galsalti\Desktop\Study\C#\WorkingDirectory\Solution1\B18_Ex1_1\obj\Debug\B18_Ex1_1.pdb
